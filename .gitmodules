@@ -1,0 +1,6 @@
+[submodule "deps/GraphBLAS"]
+	path = deps/GraphBLAS
+	url = git@github.com:DrTimothyAldenDavis/GraphBLAS.git
+[submodule "deps/LAGraph"]
+	path = deps/LAGraph
+	url = git@github.com:GraphBLAS/LAGraph.git
