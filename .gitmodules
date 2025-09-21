@@ -4,3 +4,9 @@
 [submodule "deps/LAGraph"]
 	path = deps/LAGraph
 	url = git@github.com:GraphBLAS/LAGraph.git
+[submodule "deps/gunrock"]
+	path = deps/gunrock
+	url = git@github.com:gunrock/gunrock.git
+[submodule "deps/SPLA"]
+	path = deps/SPLA
+	url = git@github.com:SparseLinearAlgebra/spla.git
